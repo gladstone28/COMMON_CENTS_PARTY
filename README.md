@@ -71,8 +71,9 @@ Below the h1 heading, create an image element that has the following image URL a
 
 Here is a reminder of how to create img elements:
 
+```js
 <img src="..."/>
-
+```
 
 ... is a placeholder value. Your src value will need to be the image URL listed above. Also, don’t forget to put the image URL in quotation marks!
 
@@ -84,20 +85,24 @@ p elements have an opening <p> and a closing </p> tag, with text in between.
 
 After creating the p element, there should be three elements inside the div with class main:
 
+```js
 
 h1 heading
 img that displays a photo of the band
 p which displays the Screech Magazine review
 
+```
 
 Next, create an anchor element that links users to a list of the band’s upcoming shows.
 
 The href attribute for the anchor element should be set to shows.html. The text for the anchor could say “Here’s a list of upcoming shows”.
 
 Test out your anchor element in the web browser.
+```js
 
 <a href="shows.html">Here's a list of upcoming shows</a>
 
+```
 You can add the anchor element one line below the closing </p> tag.
 
 
@@ -106,18 +111,19 @@ The band has asked you to include video from a recent live performance.
 In the file shows.html, below the h1 heading that displays “Upcoming Shows”, create a video element.
 
 Play with the height and width attributes until the video’s size looks right to you. Then, set the video source to:
-
+```js
  https://content.codecademy.com/projects/make-a-website/lesson-1/liveshow.mp4 
+```
 
 Play the video in the web browser to make sure it works.
 
 
 Below is an example of how to create a video element:
-
+```js
 <video width="450px" height="350px" controls>
    <source src="..." type="video/mp4">
 </video>
-
+```
 
 ... is a placeholder value. You will need to replace it with the video URL. Don’t forget to put the video URL in quotation marks!”
 
