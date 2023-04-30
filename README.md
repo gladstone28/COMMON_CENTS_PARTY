@@ -4,15 +4,24 @@ HOW TO MAKE A WEBSITE WITH NAMECHEAP
 Common Cents Party
 --------------------
 The band, Common Cents Party, has asked you to work on two webpages for their website. Now that you have been introduced to some fundamental HTML elements, you are ready to help the band. Let’s get started.
-'''
+
 Start by creating the page structure.
 -------------------------------------
 
 In index.html, there are currently three divs on the page. The div with class container has two children. Set the class of the first child div to nav. Set the class of the second child div to main.
 
-'''
 
-'''j
+```js
+console.log('Hello world');
+```
+//////////
+
+
+```js
+console.log('Hello world');
+```
+
+
 
 <div class="nav">
  
@@ -21,7 +30,7 @@ In index.html, there are currently three divs on the page. The div with class co
  
 </div>
 
-'''
+
 
 Inside the div with class nav, create an h4 element which displays “Common Cents Party” to serve as the navbar heading.
 
