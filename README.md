@@ -137,6 +137,11 @@ Make A Website Project: Common Cents Party
 https://www.youtube.com/watch?v=SfHnXCqSi9g
 
 
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+above to be removed
+
+![Make A Website Project: Common Cents Party](https://www.youtube.com/watch?v=SfHnXCqSi9g)
+
 
 
 
