@@ -109,17 +109,13 @@ Below is an example of how to create a video element:
 ... is a placeholder value. You will need to replace it with the video URL. Don’t forget to put the video URL in quotation marks!”
 
 
+Youtube Video Walkthrough can be seen below
 
 
+Make A Website Project: Common Cents Party
+-------------------------------------------
 
-
-
-
-
-
-
-
-
+https://www.youtube.com/watch?v=SfHnXCqSi9g
 
 
 
