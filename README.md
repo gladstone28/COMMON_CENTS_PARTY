@@ -131,16 +131,15 @@ Below is an example of how to create a video element:
 Youtube Video Walkthrough can be seen below
 
 
-Make A Website Project: Common Cents Party
+Make A Website Project: Common Cents Party - Video below
 -------------------------------------------
 
 https://www.youtube.com/watch?v=SfHnXCqSi9g
 
 
-below to be removed.
+Link to the codecademy lesson can be seen below:
 
-![Make A Website Project: Common Cents Party](https://www.youtube.com/watch?v=SfHnXCqSi9g)
-
+https://www.codecademy.com/courses/make-a-website/projects/band-site
 
 
 
