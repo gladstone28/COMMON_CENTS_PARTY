@@ -12,9 +12,15 @@ In index.html, there are currently three divs on the page. The div with class co
 
 
 ```js
-console.log('Hello world');
+<div class="nav">
+
+</div>
+<div class="main">
+
+</div>
+
 ```
-//////////
+
 
 
 ```js
