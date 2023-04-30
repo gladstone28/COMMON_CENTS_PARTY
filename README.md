@@ -22,27 +22,15 @@ In index.html, there are currently three divs on the page. The div with class co
 ```
 
 
+Inside the div with class nav, create an h4 element which displays “Common Cents Party” to serve as the navbar heading.
 
 ```js
-console.log('Hello world');
-```
-
-
-
-<div class="nav">
- 
-</div>
-<div class="main">
- 
-</div>
-
-
-
-Inside the div with class nav, create an h4 element which displays “Common Cents Party” to serve as the navbar heading.
 
 <div class="nav">
    <h4>...</h4>
 </div>
+
+```
 
 Below the h4, create a ul element with li items for different pages the site offers:
 
@@ -53,19 +41,27 @@ Gallery
 Bio
 Blog
 
+```js
 <ul>
    <li>item 1</li>
    <li>item 2</li>
    <li>item 3</li>
 </ul>
 
+```
+
+
+
 The ul will be inside the div with class nav, one line below the closing </h4> tag.
 
 Next, inside the div with class main, create an h1 heading element that displays “Common Cents Party”.
 
+```js
 <div class="main">
    <h1>...</h1>
 </div>
+```
+
 
 ... is a placeholder for heading text.
 
